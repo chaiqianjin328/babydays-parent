@@ -1,0 +1,12 @@
+
+Fsquid:S1066C"/Merge this if statement with the enclosing one.(¶ÔÏ¨
+Fsquid:S1066d"/Merge this if statement with the enclosing one.(¶ÔÏ¨
+ksquid:S3252S"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ
+usquid:S2293j"YReplace the type specification in this constructor call with the diamond operator ("<>").(´öüÚùÿÿÿÿ
+usquid:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(´öüÚùÿÿÿÿ
+fsquid:S32522"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(“äá¿
+Fsquid:S1066^"/Merge this if statement with the enclosing one.(¶ÔÏ¨
+|squid:S1488j"`Immediately return this expression instead of assigning it to the temporary variable "pageInfo".(´öüÚùÿÿÿÿ
+Usquid:S4973W"9Use the "equals" method if value comparison was intended.(Ò„‡Ÿûÿÿÿÿ
+Usquid:S49736"9Use the "equals" method if value comparison was intended.(Ò„‡Ÿûÿÿÿÿ
+Fsquid:S1066="/Merge this if statement with the enclosing one.(¶ÔÏ¨

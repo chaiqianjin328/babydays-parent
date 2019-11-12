@@ -1,0 +1,14 @@
+
+8squid:S1643"Use a StringBuilder instead.(¤°Ñÿÿÿÿÿ
+gsquid:S2095-"PUse try-with-resources or close this "OutputStreamWriter" in a "finally" clause.(îâ—™
+?squid:S1148 "#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+jsquid:S1450	"SRemove the "star" field and declare it as a local variable in the relevant methods.(¶øÏ²
+isquid:S1450
+"RRemove the "end" field and declare it as a local variable in the relevant methods.(¾ø‰í
+psquid:S1450"TRemove the "ttime" field and declare it as a local variable in the relevant methods.(Àµëİıÿÿÿÿ
+T
+squid:S106%"9Replace this use of System.out or System.err by a logger.(£™éŠÿÿÿÿÿ
+Fsquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+Psquid:S4719-"9Replace charset name argument with StandardCharsets.UTF_8(îâ—™
+O
+squid:S106="9Replace this use of System.out or System.err by a logger.(ğĞ¸

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="babydays-controller" />
+        <module name="babydays-interface" />
+        <module name="babydays-service" />
+        <module name="babydays-model" />
+        <module name="babydays-dao" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="babydays-api" target="1.8" />
+      <module name="babydays-common" target="1.8" />
+      <module name="babydays-controller" target="1.8" />
+      <module name="babydays-dao" target="1.8" />
+      <module name="babydays-interface" target="1.8" />
+      <module name="babydays-model" target="1.8" />
+      <module name="babydays-parent" target="1.8" />
+      <module name="babydays-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="babydays-api" options="-parameters" />
+      <module name="babydays-common" options="-parameters" />
+      <module name="babydays-controller" options="-parameters" />
+      <module name="babydays-dao" options="-parameters" />
+      <module name="babydays-interface" options="-parameters" />
+      <module name="babydays-model" options="-parameters" />
+      <module name="babydays-parent" options="-parameters" />
+      <module name="babydays-service" options="-parameters" />
+    </option>
+  </component>
+</project>

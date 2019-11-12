@@ -1,0 +1,65 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /babydays
+  tomcat:
+    max-threads: 150
+    min-spare-threads: 20
+  compression:
+    enabled: true
+    min-response-size: 100
+    mime-types: text/css,application/javascript,image/png,application/json,application/xml,text/html,text/xml,text/plain
+
+
+spring:
+  thymeleaf:
+    mode: HTML
+    encoding: UTF-8
+    servlet:
+      content-type: text/html; charset=utf-8
+    cache: false #页面不加载缓存，修改即时生效
+
+  devtools:
+    restart:
+      enabled: true #设置开启热部署
+
+  mvc:
+    contentnegotiation:
+      media-types: {"text/html;charset=UTF-8"}
+    # 静态文件请求匹配方式
+    static-path-pattern: /**
+  # 修改默认的静态寻址资源目录
+  resources:
+    static-locations: classpath:/templates/,classpath:/META-INF/resources/,classpath:/resources/,classpath:/static/,classpath:/public/
+  servlet:
+    multipart:
+      max-file-size: 10
+      max-request-size: 60
+
+
+#开启sql打印
+logging:
+  level:
+    com.babydays.controller: debug
+    org.springframework.boot.autoconfigure: ERROR
+  file: /Users/chaiqianjin/babydays-log/babydays-controller.log
+
+#dubbo-cli setup
+dubbo:
+  application:
+    name: babydays-service
+  registry:
+    address: 127.0.0.1:2181,127.0.0.1:2182,127.0.0.1:2183
+    protocol: zookeeper
+    check: false
+  protocol:
+    name: dubbo
+    port: 20880
+  monitor:
+    protocol: register
+  consumer:
+    check: false
+    timeout: 3000
+
+
+

@@ -1,0 +1,13 @@
+
+Usquid:S4973X"9Use the "equals" method if value comparison was intended.(Ò„‡Ÿûÿÿÿÿ
+fsquid:S3252?"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(“äá¿
+ksquid:S3252'"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ
+|squid:S14884"`Immediately return this expression instead of assigning it to the temporary variable "pageInfo".(ç¸ì«şÿÿÿÿ
+Fsquid:S1066/"/Merge this if statement with the enclosing one.(¶ÔÏ¨
+Usquid:S4973C"9Use the "equals" method if value comparison was intended.(Ò„‡Ÿûÿÿÿÿ
+usquid:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(ç¸ì«şÿÿÿÿ
+usquid:S2293J"YReplace the type specification in this constructor call with the diamond operator ("<>").(ç¸ì«şÿÿÿÿ
+[squid:S1155‹">Use isEmpty() to check whether the collection is empty or not.(É€°Îøÿÿÿÿ
+Zsquid:S1155l">Use isEmpty() to check whether the collection is empty or not.(É€°Îøÿÿÿÿ
+Usquid:S4973+"9Use the "equals" method if value comparison was intended.(Ò„‡Ÿûÿÿÿÿ
+xsquid:S1488^"\Immediately return this expression instead of assigning it to the temporary variable "list".(´–åúüÿÿÿÿ

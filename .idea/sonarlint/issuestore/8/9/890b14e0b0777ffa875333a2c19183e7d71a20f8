@@ -1,0 +1,29 @@
+
+Psquid:S4973b"9Use the "equals" method if value comparison was intended.(Œ‡î
+Nsquid:S1135"2Complete the task associated to this TODO comment.(ß÷ñìıÿÿÿÿ
+Vsquid:S4973¨"9Use the "equals" method if value comparison was intended.(ĞË·Èüÿÿÿÿ
+@squid:S1148×"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148‡"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148‘"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Vsquid:S4973Ò"9Use the "equals" method if value comparison was intended.(Èõíğúÿÿÿÿ
+@squid:S1148‚"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Nsquid:S1135="2Complete the task associated to this TODO comment.(ù¥¥Òıÿÿÿÿ
+@squid:S1148Ü"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148²"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Vsquid:S4973¬"9Use the "equals" method if value comparison was intended.(Èõíğúÿÿÿÿ
+fsquid:S1192Y"JDefine a constant instead of duplicating this literal "loginUser" 8 times.(ôĞıÿÿÿÿ
+Vsquid:S4973ø"9Use the "equals" method if value comparison was intended.(âÎ¢¥ÿÿÿÿÿ
+jsquid:S3776F"SRefactor this method to reduce its Cognitive Complexity from 275 to the 15 allowed.(Ğéóà
+]squid:S1192}"GDefine a constant instead of duplicating this literal "garden" 7 times.(ÙÈ
+^squid:S1192ó"FDefine a constant instead of duplicating this literal "class" 3 times.(ÊƒÔŸ
+jsquid:S1192W"SDefine a constant instead of duplicating this literal "ç”¨æˆ·å·²è¢«åœç”¨" 8 times.(èÁòø
+Vsquid:S4973ı"9Use the "equals" method if value comparison was intended.(ĞË·Èüÿÿÿÿ
+Vsquid:S4973Í"9Use the "equals" method if value comparison was intended.(À´ÏÓûÿÿÿÿ
+?squid:S1148l"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+usquid:S2293Q"YReplace the type specification in this constructor call with the diamond operator ("<>").(é¹ş„úÿÿÿÿ
+isquid:S1192m"RDefine a constant instead of duplicating this literal "tokenç”Ÿæˆå¼‚å¸¸" 8 times.(â«Ùô
+@squid:S1148¶"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+]squid:S1192o"FDefine a constant instead of duplicating this literal "token" 8 times.(ØÍ½¾
+Vsquid:S4973‡"9Use the "equals" method if value comparison was intended.(Èõíğúÿÿÿÿ
+fsquid:S4488D"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ãèïûÿÿÿÿ
+ƒsquid:UselessImportCheck"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8şÆìÒå-

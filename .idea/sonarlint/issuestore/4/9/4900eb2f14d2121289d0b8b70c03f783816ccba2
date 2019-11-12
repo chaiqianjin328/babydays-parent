@@ -1,0 +1,20 @@
+
+^squid:S00112\"FDefine and throw a dedicated exception instead of using a generic one.(ù­çË
+Asquid:S00108p")Either remove or fill this block of code.(ÍÀ¦Ü
+Vsquid:S4973¢"9Use the "equals" method if value comparison was intended.(Ò„‡Ÿûÿÿÿÿ
+gsquid:S3252"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(“äá¿
+Qsquid:S4973‡"9Use the "equals" method if value comparison was intended.(ÍÀ¦Ü
+ksquid:S3252l"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ
+Psquid:S4973p"9Use the "equals" method if value comparison was intended.(ÍÀ¦Ü
+Fsquid:S1066v"/Merge this if statement with the enclosing one.(¶ÔÏ¨
+qsquid:S2293ª"YReplace the type specification in this constructor call with the diamond operator ("<>").(©Ñ±
+Zsquid:S1155'">Use isEmpty() to check whether the collection is empty or not.(É€°Îøÿÿÿÿ
+Zsquid:S1155T">Use isEmpty() to check whether the collection is empty or not.(É€°Îøÿÿÿÿ
+xsquid:S1488“"`Immediately return this expression instead of assigning it to the temporary variable "pageInfo".(©Ñ±
+psquid:S2293|"YReplace the type specification in this constructor call with the diamond operator ("<>").(©Ñ±
+lsquid:S3252ƒ"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ
+qsquid:S2293“"YReplace the type specification in this constructor call with the diamond operator ("<>").(©Ñ±
+dsquid:S1192n"HDefine a constant instead of duplicating this literal "id DESC" 3 times.(¿ï¼öşÿÿÿÿ
+Gsquid:S1066"/Merge this if statement with the enclosing one.(¶ÔÏ¨
+wsquid:S1488|"`Immediately return this expression instead of assigning it to the temporary variable "pageInfo".(©Ñ±
+Bsquid:S00108‡")Either remove or fill this block of code.(ÍÀ¦Ü

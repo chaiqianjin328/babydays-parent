@@ -1,0 +1,22 @@
+
+Fsquid:S1481!"*Remove this unused "query" local variable.(€Ü‰Œùÿÿÿÿ
+Fsquid:S1481e"*Remove this unused "query" local variable.(€Ü‰Œùÿÿÿÿ
+xsquid:S1488‹"`Immediately return this expression instead of assigning it to the temporary variable "pageInfo".(Ê­ƒ¨
+fsquid:S3252#"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(“äá¿
+gsquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(¶é°úÿÿÿÿ
+gsquid:CommentedOutCodeLineQ"<This block of commented-out lines of code should be removed.(¶é°úÿÿÿÿ
+gsquid:S1192,"KDefine a constant instead of duplicating this literal "yyyy-MM-dd" 4 times.(ä‰®¥ùÿÿÿÿ
+Usquid:S1854!"9Remove this useless assignment to local variable "query".(€Ü‰Œùÿÿÿÿ
+Psquid:S4973+"9Use the "equals" method if value comparison was intended.(Ø†Ãÿ
+psquid:S2293s"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ê­ƒ¨
+Psquid:S4973k"9Use the "equals" method if value comparison was intended.(Ø†Ãÿ
+wsquid:S1488Z"`Immediately return this expression instead of assigning it to the temporary variable "pageInfo".(Ê­ƒ¨
+Psquid:S4973R"9Use the "equals" method if value comparison was intended.(Ø†Ãÿ
+Qsquid:S4973ƒ"9Use the "equals" method if value comparison was intended.(Ø†Ãÿ
+psquid:S2293Z"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ê­ƒ¨
+fsquid:S3252g"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(“äá¿
+ksquid:S3252~"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ
+psquid:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ê­ƒ¨
+Usquid:S1854e"9Remove this useless assignment to local variable "query".(€Ü‰Œùÿÿÿÿ
+ksquid:S3252I"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ
+qsquid:S2293‹"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ê­ƒ¨

@@ -1,0 +1,206 @@
+
+jsquid:S3776Õ"RRefactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.(ª°Îİ
+Vsquid:S4973Ø"9Use the "equals" method if value comparison was intended.(”êÑøÿÿÿÿ
+Osquid:S4973I"9Use the "equals" method if value comparison was intended.(¡ÈÓE
+@squid:S1148Æ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Vsquid:S4973›"9Use the "equals" method if value comparison was intended.(ôıí§úÿÿÿÿ
+Vsquid:S4973"9Use the "equals" method if value comparison was intended.(Áª¯‚üÿÿÿÿ
+ysquid:S1192X"bDefine a constant instead of duplicating this literal "æ³¨å†Œå¤±è´¥ï¼Œç”¨æˆ·åè¢«å ç”¨" 5 times.( Ã„
+{squid:S1192{"_Define a constant instead of duplicating this literal "åˆ é™¤å¤±è´¥ï¼Œé”™è¯¯åŸå› ï¼š" 5 times.(ÑÊ¨•ûÿÿÿÿ
+Jsquid:S1135ü	"2Complete the task associated to this TODO comment.(‰™°—
+gsquid:S4488©"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(£ãÿÔûÿÿÿÿ
+Osquid:S1135Ş	"2Complete the task associated to this TODO comment.(—ŸÁüÿÿÿÿ
+gsquid:S4488¿"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(‹ÁêÎÿÿÿÿÿ
+vsquid:S2293Û"YReplace the type specification in this constructor call with the diamond operator ("<>").(æëïÿÿÿÿÿ
+Usquid:S4973L"9Use the "equals" method if value comparison was intended.(­¡€Ùÿÿÿÿÿ
+Jsquid:S1135¹"2Complete the task associated to this TODO comment.(¾²ı­
+Vsquid:S4973ş"9Use the "equals" method if value comparison was intended.(­¡€Ùÿÿÿÿÿ
+Vsquid:S4973"9Use the "equals" method if value comparison was intended.(Ã¬æ£üÿÿÿÿ
+bsquid:S4488¤
+"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ü¤¯™
+gsquid:S4488Ó"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ûûışÿÿÿÿ
+Usquid:S4973O"9Use the "equals" method if value comparison was intended.(’ŸæÆıÿÿÿÿ
+@squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Osquid:S1135µ"2Complete the task associated to this TODO comment.(” ó³şÿÿÿÿ
+‚squid:S1192Ç"eDefine a constant instead of duplicating this literal "è·å–æ•°æ®å¤±è´¥ï¼Œå¤±è´¥åŸå› ï¼š" 9 times.(ƒİºûúÿÿÿÿ
+Osquid:S1135®"2Complete the task associated to this TODO comment.(èª£ÿÿÿÿÿ
+gsquid:S4488¸"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¨÷š¬şÿÿÿÿ
+Vsquid:S4973œ	"9Use the "equals" method if value comparison was intended.(–Ÿ´²ıÿÿÿÿ
+@squid:S1148¥"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Qsquid:S4973–	"9Use the "equals" method if value comparison was intended.(ëËƒç
+Qsquid:S4973ˆ
+"9Use the "equals" method if value comparison was intended.(Îù„‚
+gsquid:S4488»"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(çş“¬ùÿÿÿÿ
+Qsquid:S4973Ã	"9Use the "equals" method if value comparison was intended.(ëËƒç
+@squid:S1148‘"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148z"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Vsquid:S4973•"9Use the "equals" method if value comparison was intended.(·¿úïûÿÿÿÿ
+Psquid:S4973Ü"9Use the "equals" method if value comparison was intended.(¡ÈÓE
+Vsquid:S4973Ö"9Use the "equals" method if value comparison was intended.(”êÑøÿÿÿÿ
+Vsquid:S4973Ñ"9Use the "equals" method if value comparison was intended.(’ŸæÆıÿÿÿÿ
+Qsquid:S4973ä"9Use the "equals" method if value comparison was intended.(ùÜ›
+Vsquid:S4973„"9Use the "equals" method if value comparison was intended.(Áª¯‚üÿÿÿÿ
+[squid:S1155ˆ">Use isEmpty() to check whether the collection is empty or not.(É€°Îøÿÿÿÿ
+@squid:S1148–"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Nsquid:S1135d"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+Osquid:S1135œ"2Complete the task associated to this TODO comment.(šêÊˆüÿÿÿÿ
+bsquid:S4488…"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¬°ş£
+@squid:S1148­"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+vsquid:S2293¾"YReplace the type specification in this constructor call with the diamond operator ("<>").(æëïÿÿÿÿÿ
+zsquid:S1192—	"bDefine a constant instead of duplicating this literal "æ·»åŠ å¤±è´¥ï¼Œç¼ºå°‘å¿…å¡«å‚æ•°" 8 times.(Õø«
+gsquid:S4488°"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(©×ï¬ûÿÿÿÿ
+‘squid:S1192½"yDefine a constant instead of duplicating this literal "è¯·æ±‚å‚æ•°é”™è¯¯ï¼Œæç¤ºï¼šéœ€è¦pageNum>0 pageSize>0" 9 times.(÷èÅ†
+@squid:S1148ó"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Isquid:S1135"2Complete the task associated to this TODO comment.(ÄÜÂ‹
+asquid:S4488>"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(²Ì
+Psquid:S4973ë"9Use the "equals" method if value comparison was intended.(¡ÈÓE
+Vsquid:S4973„"9Use the "equals" method if value comparison was intended.(”êÑøÿÿÿÿ
+Vsquid:S4973ş"9Use the "equals" method if value comparison was intended.(ğÜË‰üÿÿÿÿ
+Usquid:S4973R"9Use the "equals" method if value comparison was intended.(”êÑøÿÿÿÿ
+Osquid:S1135Ä
+"2Complete the task associated to this TODO comment.(ÌÇ¦“øÿÿÿÿ
+Qsquid:S4973€"9Use the "equals" method if value comparison was intended.(èëî§
+Osquid:S1135ª"2Complete the task associated to this TODO comment.(ä´åüùÿÿÿÿ
+@squid:S1148¾"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+bsquid:S4488¢"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(‘Ÿ‹¤
+gsquid:S4488¸	"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(›ô‰şÿÿÿÿ
+@squid:S1148Û
+"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+gsquid:S4488ï"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÏÕ¾ ıÿÿÿÿ
+bsquid:S4488É"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(®‘Î
+gsquid:S4488Î"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(‘úöüúÿÿÿÿ
+jsquid:S3776½"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(õìÑ¡
+gsquid:S4488Ô"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ıÉö‚şÿÿÿÿ
+Jsquid:S1135Í"2Complete the task associated to this TODO comment.(ï÷º
+Osquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+gsquid:S4488­"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¾ŞÎ×øÿÿÿÿ
+Vsquid:S4973"9Use the "equals" method if value comparison was intended.(”êÑøÿÿÿÿ
+vsquid:S2293š"YReplace the type specification in this constructor call with the diamond operator ("<>").(æëïÿÿÿÿÿ
+[squid:S1155¬">Use isEmpty() to check whether the collection is empty or not.(É€°Îøÿÿÿÿ
+isquid:S3776Ğ"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(¥¸Ş
+asquid:S4488Ê
+"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ßƒÏR
+Vsquid:S4973§"9Use the "equals" method if value comparison was intended.(ôıí§úÿÿÿÿ
+Vsquid:S4973ñ"9Use the "equals" method if value comparison was intended.(Äğï–ùÿÿÿÿ
+bsquid:S4488¦"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(†š³
+Osquid:S1135¹"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+zsquid:S1192è"bDefine a constant instead of duplicating this literal "æ³¨å†Œå¤±è´¥ï¼Œè§’è‰²å‚æ•°é”™è¯¯" 3 times.(‚øÿŸ
+Qsquid:S4973¡"9Use the "equals" method if value comparison was intended.(ıÌêï
+@squid:S1148»
+"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Vsquid:S4973ì"9Use the "equals" method if value comparison was intended.(”êÑøÿÿÿÿ
+@squid:S1148š"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Jsquid:S1135£"2Complete the task associated to this TODO comment.(ˆéÄà
+Vsquid:S4973É	"9Use the "equals" method if value comparison was intended.(–Ÿ´²ıÿÿÿÿ
+Vsquid:S4973å"9Use the "equals" method if value comparison was intended.(¶ºü²øÿÿÿÿ
+Osquid:S1135™"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+Jsquid:S1135²"2Complete the task associated to this TODO comment.(ª óê
+Osquid:S1135§"2Complete the task associated to this TODO comment.(ï€ãùüÿÿÿÿ
+bsquid:S4488ğ"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(§ÃÁ²
+Vsquid:S4973¡"9Use the "equals" method if value comparison was intended.(·¿úïûÿÿÿÿ
+Psquid:S4973Æ"9Use the "equals" method if value comparison was intended.(¡ÈÓE
+squid:S1192G"cDefine a constant instead of duplicating this literal "æ³¨å†Œå¤±è´¥ï¼Œç¼ºå°‘å¿…å¡«å‚æ•°" 50 times.(şãš­üÿÿÿÿ
+Psquid:S4973”"9Use the "equals" method if value comparison was intended.(¡ÈÓE
+[squid:S1155Œ">Use isEmpty() to check whether the collection is empty or not.(É€°Îøÿÿÿÿ
+Jsquid:S1135ş"2Complete the task associated to this TODO comment.(ØÍ ı
+Jsquid:S1135Ù"2Complete the task associated to this TODO comment.(¤¥çÎ
+@squid:S1148ó"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+|squid:S1192¦"_Define a constant instead of duplicating this literal "æ›´æ”¹å¤±è´¥ï¼Œé”™è¯¯åŸå› ï¼š" 5 times.(Ò¸ôøÿÿÿÿ
+@squid:S1148Ş"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Jsquid:S1135
+"2Complete the task associated to this TODO comment.(“ıõÑ
+Vsquid:S4973š"9Use the "equals" method if value comparison was intended.(’ŸæÆıÿÿÿÿ
+Qsquid:S4973ô"9Use the "equals" method if value comparison was intended.(èëî§
+Vsquid:S4973è"9Use the "equals" method if value comparison was intended.( ŞÊ¦øÿÿÿÿ
+gsquid:S4488‚
+"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Á¡´÷ÿÿÿÿÿ
+gsquid:S4488‰"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(•ó…¿ıÿÿÿÿ
+Qsquid:S4973®
+"9Use the "equals" method if value comparison was intended.(Îù„‚
+@squid:S1148º"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Vsquid:S4973ı"9Use the "equals" method if value comparison was intended.(Äğï–ùÿÿÿÿ
+osquid:S3776á"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(ŠŒ»şÿÿÿÿÿ
+@squid:S1148Ğ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Osquid:S1135Ä"2Complete the task associated to this TODO comment.(ÉŞÊøÿÿÿÿ
+@squid:S1148Ó	"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+[squid:S1155ƒ">Use isEmpty() to check whether the collection is empty or not.(É€°Îøÿÿÿÿ
+jsquid:S3776º"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(å–ì
+Psquid:S4973ü"9Use the "equals" method if value comparison was intended.(ŸÜö_
+Vsquid:S4973Ğ"9Use the "equals" method if value comparison was intended.(­¡€Ùÿÿÿÿÿ
+gsquid:S4488Í"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(é²û´şÿÿÿÿ
+Jsquid:S1135é"2Complete the task associated to this TODO comment.(âŸØ
+Vsquid:S4973ú"9Use the "equals" method if value comparison was intended.(­¡€Ùÿÿÿÿÿ
+Vsquid:S4973¤"9Use the "equals" method if value comparison was intended.(ÍÏ©çûÿÿÿÿ
+Isquid:S11358"2Complete the task associated to this TODO comment.(‚†àù
+Psquid:S4973é"9Use the "equals" method if value comparison was intended.(ŸÜö_
+Psquid:S4973Ë"9Use the "equals" method if value comparison was intended.(¡ÈÓE
+@squid:S1148¡"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+vsquid:S2293ü"YReplace the type specification in this constructor call with the diamond operator ("<>").(æëïÿÿÿÿÿ
+vsquid:S2293×
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(æëïÿÿÿÿÿ
+@squid:S1148Â"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Vsquid:S4973Õ"9Use the "equals" method if value comparison was intended.(’ŸæÆıÿÿÿÿ
+Psquid:S4973È"9Use the "equals" method if value comparison was intended.(¡ÈÓE
+Vsquid:S4973Ù"9Use the "equals" method if value comparison was intended.(Ö¾ùÿÿÿÿ
+@squid:S1148ô	"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Vsquid:S4973Î"9Use the "equals" method if value comparison was intended.(­¡€Ùÿÿÿÿÿ
+bsquid:S4488‡"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(‚µë
+Osquid:S1135Î"2Complete the task associated to this TODO comment.(ÿµışÿÿÿÿ
+zsquid:S1192‰
+"bDefine a constant instead of duplicating this literal "æ·»åŠ å¤±è´¥ï¼Œç¼ºå°‘å¿…è¦å‚æ•°" 3 times.(ŸÚå¢
+Isquid:S1135n"2Complete the task associated to this TODO comment.(Íâ†
+€squid:S1192’"cDefine a constant instead of duplicating this literal "æ›´æ”¹å¤±è´¥ï¼Œç¼ºå°‘å¿…å¡«å‚æ•°" 38 times.(¿æä•üÿÿÿÿ
+Usquid:S4973F"9Use the "equals" method if value comparison was intended.(Ö¾ùÿÿÿÿ
+Vsquid:S4973Ò"9Use the "equals" method if value comparison was intended.(­¡€Ùÿÿÿÿÿ
+Vsquid:S4973"9Use the "equals" method if value comparison was intended.(’ŸæÆıÿÿÿÿ
+@squid:S1148©"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Vsquid:S4973î"9Use the "equals" method if value comparison was intended.(­¡€Ùÿÿÿÿÿ
+osquid:S3776Ö"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Ÿí¬¥şÿÿÿÿ
+Jsquid:S1135Å"2Complete the task associated to this TODO comment.(«–äÅ
+Vsquid:S4973Ó"9Use the "equals" method if value comparison was intended.(’ŸæÆıÿÿÿÿ
+@squid:S1148€	"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+gsquid:S4488ß"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(†øÇªùÿÿÿÿ
+Vsquid:S4973ª"9Use the "equals" method if value comparison was intended.(Ã¬æ£üÿÿÿÿ
+@squid:S1148°"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Osquid:S1135ƒ"2Complete the task associated to this TODO comment.(€Ûş‚ÿÿÿÿÿ
+Vsquid:S4973é"9Use the "equals" method if value comparison was intended.(’ŸæÆıÿÿÿÿ
+?squid:S1148e"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148¼"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Jsquid:S1135 "2Complete the task associated to this TODO comment.(Ì“„§
+Osquid:S1135ü"2Complete the task associated to this TODO comment.(¬¸Ñúÿÿÿÿ
+@squid:S1148ß"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Vsquid:S4973ÿ"9Use the "equals" method if value comparison was intended.( ŞÊ¦øÿÿÿÿ
+@squid:S1148¦	"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Zsquid:S1155W">Use isEmpty() to check whether the collection is empty or not.(É€°Îøÿÿÿÿ
+Vsquid:S4973—"9Use the "equals" method if value comparison was intended.(­¡€Ùÿÿÿÿÿ
+asquid:S4488ä	"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ìò„B
+Qsquid:S4973­"9Use the "equals" method if value comparison was intended.(ıÌêï
+@squid:S1148•
+"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+asquid:S4488	"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(†ü”_
+zsquid:S1192¬
+"bDefine a constant instead of duplicating this literal "ä¿®æ”¹å¤±è´¥ï¼Œç¼ºå°‘å¿…è¦å‚æ•°" 4 times.(ıêÌ
+Jsquid:S1135²	"2Complete the task associated to this TODO comment.(‹¡øÍ
+{squid:S1192f"_Define a constant instead of duplicating this literal "æ³¨å†Œå¤±è´¥ï¼Œé”™è¯¯åŸå› ï¼š" 5 times.(¯æ²Õøÿÿÿÿ
+vsquid:S2293ğ	"YReplace the type specification in this constructor call with the diamond operator ("<>").(æëïÿÿÿÿÿ
+Vsquid:S4973Š"9Use the "equals" method if value comparison was intended.(ğÜË‰üÿÿÿÿ
+Qsquid:S4973Ÿ	"9Use the "equals" method if value comparison was intended.(ò‰º¥
+Osquid:S1135È"2Complete the task associated to this TODO comment.(şóÆíùÿÿÿÿ
+fsquid:S4488s"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÁæÑşÿÿÿÿÿ
+Vsquid:S4973è"9Use the "equals" method if value comparison was intended.(Ö¾ùÿÿÿÿ
+vsquid:S2293Â"YReplace the type specification in this constructor call with the diamond operator ("<>").(æëïÿÿÿÿÿ
+Vsquid:S4973æ"9Use the "equals" method if value comparison was intended.(­¡€Ùÿÿÿÿÿ
+Qsquid:S4973Ì	"9Use the "equals" method if value comparison was intended.(ò‰º¥
+vsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(æëïÿÿÿÿÿ
+Jsquid:S1135‰	"2Complete the task associated to this TODO comment.(ùª‹
+Osquid:S1135è"2Complete the task associated to this TODO comment.(½Ìø½úÿÿÿÿ
+gsquid:S4488¶"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(·¹ƒÿÿÿÿÿ
+Vsquid:S4973˜"9Use the "equals" method if value comparison was intended.(ÍÏ©çûÿÿÿÿ
+Psquid:S4973÷"9Use the "equals" method if value comparison was intended.(¡ÈÓE
+vsquid:S2293º"YReplace the type specification in this constructor call with the diamond operator ("<>").(æëïÿÿÿÿÿ
+Psquid:S4973û"9Use the "equals" method if value comparison was intended.(¡ÈÓE
+Vsquid:S4973Ô"9Use the "equals" method if value comparison was intended.(”êÑøÿÿÿÿ
+Osquid:S1135•"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+Vsquid:S4973ø"9Use the "equals" method if value comparison was intended.(Ö¾ùÿÿÿÿ
+wsquid:S1192§	"_Define a constant instead of duplicating this literal "æ·»åŠ å¤±è´¥ï¼Œå¤±è´¥åŸå› ï¼š" 3 times.(Ôõíÿ
+squid:UselessImportCheck"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8ô—éÒå-

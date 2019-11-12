@@ -1,0 +1,12 @@
+
+Nsquid:S1135="2Complete the task associated to this TODO comment.(Ï†ÓÖûÿÿÿÿ
+Hsquid:S1135Y"2Complete the task associated to this TODO comment.(’±Œ3
+asquid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(– ”½
+usquid:S2293o"YReplace the type specification in this constructor call with the diamond operator ("<>").(æëïÿÿÿÿÿ
+fsquid:S4488_"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(†ë¤Õùÿÿÿÿ
+?squid:S1148s"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148N"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Osquid:S4973."9Use the "equals" method if value comparison was intended.(•¶Ğ
+asquid:S4488C"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ô‡¢¿
+ysquid:S1192#"bDefine a constant instead of duplicating this literal "æ·»åŠ å¤±è´¥ï¼Œç¼ºå°‘å¿…è¦å‚æ•°" 5 times.(ŸÚå¢
+squid:UselessImportCheck"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8İ†æÒå-

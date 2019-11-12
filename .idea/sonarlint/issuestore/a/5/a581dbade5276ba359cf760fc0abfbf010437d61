@@ -1,0 +1,16 @@
+
+ƒsquid:UselessImportCheck"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8ãÍ‡Óå-
+]squid:S21841"FCast one of the operands of this multiplication operation to a "long".(Óáô
+Ssquid:S2589."7Remove this expression which always evaluates to "true"(ïúÜØşÿÿÿÿ
+|squid:S11925"`Define a constant instead of duplicating this literal "application/json; charset=utf-8" 4 times.(”²¸Èıÿÿÿÿ
+O
+squid:S106'"9Replace this use of System.out or System.err by a logger.(ñšÔ
+Qsquid:S1161":Add the "@Override" annotation above this method signature(¿Îã
+bsquid:S11924"FDefine a constant instead of duplicating this literal "utf-8" 4 times.(¿ ¹¤üÿÿÿÿ
+bsquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(Ïü ê
+Nsquid:S1135n"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+Vsquid:S1161k":Add the "@Override" annotation above this method signature(Ì®¨Ğúÿÿÿÿ
+Vsquid:S1161d":Add the "@Override" annotation above this method signature(î¨Š¶ùÿÿÿÿ
+Nsquid:S1135g"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¿Îã
+Nsquid:S1135!"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ

@@ -1,0 +1,13 @@
+
+psquid:S2293w"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤¾ı·
+gsquid:S3252„"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(“äá¿
+ksquid:S3252b"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ
+Fsquid:S1066q"/Merge this if statement with the enclosing one.(¶ÔÏ¨
+wsquid:S1488w"`Immediately return this expression instead of assigning it to the temporary variable "pageInfo".(¤¾ı·
+Asquid:S00108f")Either remove or fill this block of code.(ÍÀ¦Ü
+Vsquid:S4973ˆ"9Use the "equals" method if value comparison was intended.(Ò„‡Ÿûÿÿÿÿ
+qsquid:S2293•"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤¾ı·
+Zsquid:S1155%">Use isEmpty() to check whether the collection is empty or not.(É€°Îøÿÿÿÿ
+^squid:S00112Z"FDefine and throw a dedicated exception instead of using a generic one.(§¦°
+Psquid:S4973f"9Use the "equals" method if value comparison was intended.(ÍÀ¦Ü
+Zsquid:S1155R">Use isEmpty() to check whether the collection is empty or not.(É€°Îøÿÿÿÿ

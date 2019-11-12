@@ -1,0 +1,10 @@
+
+Usquid:S4973L"9Use the "equals" method if value comparison was intended.(Ò„‡Ÿûÿÿÿÿ
+ksquid:S3252H"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ
+Fsquid:S1066P"/Merge this if statement with the enclosing one.(¶ÔÏ¨
+|squid:S1488U"`Immediately return this expression instead of assigning it to the temporary variable "pageInfo".(ˆ­´Ğıÿÿÿÿ
+Usquid:S49735"9Use the "equals" method if value comparison was intended.(Ò„‡Ÿûÿÿÿÿ
+usquid:S2293U"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆ­´Ğıÿÿÿÿ
+usquid:S2293>"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆ­´Ğıÿÿÿÿ
+Fsquid:S10669"/Merge this if statement with the enclosing one.(¶ÔÏ¨
+fsquid:S32521"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(“äá¿

@@ -1,0 +1,21 @@
+
+Psquid:S4973>"9Use the "equals" method if value comparison was intended.(‰™àÈ
+fsquid:S4488,"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(æä°¤üÿÿÿÿ
+Isquid:S1135r"2Complete the task associated to this TODO comment.(«í°™
+vsquid:S2293±"YReplace the type specification in this constructor call with the diamond operator ("<>").(æëïÿÿÿÿÿ
+ysquid:S11926"bDefine a constant instead of duplicating this literal "æ·»åŠ å¤±è´¥ï¼Œç¼ºå°‘å¿…è¦å‚æ•°" 6 times.(ŸÚå¢
+bsquid:S4488£"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(°é–Ø
+Psquid:S4973…"9Use the "equals" method if value comparison was intended.(‡¯Ï8
+@squid:S1148›"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Nsquid:S1135"2Complete the task associated to this TODO comment.(ºÄ‚ûıÿÿÿÿ
+fsquid:S4488x"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(½·Ñµúÿÿÿÿ
+zsquid:S1192ƒ"bDefine a constant instead of duplicating this literal "ä¿®æ”¹å¤±è´¥ï¼Œç¼ºå°‘å¿…è¦å‚æ•°" 7 times.(ıêÌ
+Nsquid:S1135V"2Complete the task associated to this TODO comment.(ÿ¬Œ•øÿÿÿÿ
+?squid:S1148K"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Isquid:S1135&"2Complete the task associated to this TODO comment.(èé‰•
+@squid:S1148µ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+fsquid:S4488\"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ñ¾îıÿÿÿÿ
+Osquid:S49735"9Use the "equals" method if value comparison was intended.(‡¯Ï8
+Qsquid:S4973"9Use the "equals" method if value comparison was intended.(‰™àÈ
+?squid:S1148g"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+squid:UselessImportCheck"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8ØçéÒå-

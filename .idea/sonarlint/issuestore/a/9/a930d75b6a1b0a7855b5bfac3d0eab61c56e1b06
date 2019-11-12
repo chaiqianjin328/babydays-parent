@@ -1,0 +1,9 @@
+
+Fsquid:S1066K"/Merge this if statement with the enclosing one.(Ä’¢‘
+wsquid:S14888"`Immediately return this expression instead of assigning it to the temporary variable "pageInfo".(æ
+Usquid:S49731"9Use the "equals" method if value comparison was intended.(Ò„‡Ÿûÿÿÿÿ
+Usquid:S4973G"9Use the "equals" method if value comparison was intended.(Ò„‡Ÿûÿÿÿÿ
+ksquid:S3252-"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ
+psquid:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(æ
+fsquid:S3252C"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(“äá¿
+psquid:S2293P"YReplace the type specification in this constructor call with the diamond operator ("<>").(æ
